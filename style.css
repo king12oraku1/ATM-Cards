@@ -186,5 +186,26 @@ td {
         width: 140px;
         height: 60.99px;
     }
+    .man {
+    width: 248.125px;
+    height: 43.3229px;
+}
+
+.boy {
+    width: 100.469px;
+    height: 43.3229px;
+
+}
+
+.girl {
+    width: 266.125px;
+    height: 43.3229px;
+}
+
+.abi {
+    width: 480.271px;
+    height: 43.3229px;
+}
+
 
 }
